@@ -10,7 +10,9 @@
 
 如果你希望下载本文 PDF 以及配套代码，请前往「dl.dontalk.org」找到「现代网页开发入门指南书 - 从数据库设计，到后端，再到前端」即可下载。或者博文提到的 GitHub地址 也可以下载到副本 (包括本指南书的PDF档)。
 
-Dontalk地址：dontalk.org
+Dontalk地址：https://dontalk.org
+
+文章地址：https://blog.dontalk.org
 
 Github仓库地址(25年5月中)：https://github.com/infoabcd/Modern-Web-Development-Beginner-s-Guide/
 
