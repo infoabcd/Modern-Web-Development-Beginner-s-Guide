@@ -1,5 +1,6 @@
 # Modern-Web-Development-Beginner-s-Guide
 现代网页开发入门指南书 - 从数据库设计，到后端，再到前端
+(MariaDB - Express - React - TailwindCSS)
 
 如今的Web，早已不再是前后端混合的 PHP 世界。我们早已进入了前后端分离的，Web3.0的 - 未来。
 
