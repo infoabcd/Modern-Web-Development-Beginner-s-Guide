@@ -30,7 +30,9 @@ Github仓库地址(25年5月中)：https://github.com/infoabcd/Modern-Web-Develo
 
 CSS框架 事实上就是给你快速构建网站用的，也包括功能。比如说CSS框架提供了一个导航栏，你只需要在他们官网把代码复制下来，之后更改关键点就好了。比如说下面这个框架，就提供了很多功能
 
-***TailwindCSS和BootStrap5(引入)比较频繁使用类名，但是CSS框架的精髓应该是标签。如下面的css，如果我们需要卡片样式，就引入并使用<Card>标签，他们提供一些属性来DIY。这一点AntDesign做得很好***
+***TailwindCSS 和 BootStrap5(引入) 比较频繁使用类名，但是CSS框架的精髓应该是标签。如下面的css，如果我们需要卡片样式，就引入并使用 `<Card>` 标签，他们提供一些属性来DIY。这一点 AntDesign 做得很好***
+
+AntDesign - [https://ant.design/](https://ant.design/ "https://ant.design/")
 
 ui.shadcn - [https://ui.shadcn.com/docs/](https://ui.shadcn.com/docs/ "https://ui.shadcn.com/docs/")
 
