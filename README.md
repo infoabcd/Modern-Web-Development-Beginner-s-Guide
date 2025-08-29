@@ -22,5 +22,3 @@ Github仓库地址(25年5月中)：https://github.com/infoabcd/Modern-Web-Develo
 否则在沟通无果后，Dontalk 团队不介意采用法律武器捍卫权益。
 
 协议详情请见：https://creativecommons.org/licenses/by-nc/4.0/deed.zh
-
-# 2025.08.19 - v1.4 增量(不并入pdf) 有关CSS框架(组件库)
